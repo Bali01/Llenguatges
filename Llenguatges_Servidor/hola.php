@@ -2,7 +2,7 @@
 	<head></head>
 	<body>
 		<?php
-			echo "Hola, Ramis!"
+			echo "Hola, Eclipse!"
 		?>
 	</body>
 </html>
