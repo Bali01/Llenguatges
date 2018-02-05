@@ -2,7 +2,7 @@
 	<head></head>
 	<body>
 		<?php
-			echo "Hola, Eclipse!"
+			echo "Hola, git Windows!"
 		?>
 	</body>
 </html>

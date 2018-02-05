@@ -2,6 +2,6 @@
 	<head></head>
 
 	<body>
-		<%"Hello, Eclipse!" %>
+		<%"Hello, git windows!" %>
 	</body>
 </html>
