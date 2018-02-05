@@ -2,6 +2,6 @@
 	<head></head>
 
 	<body>
-		<%"Hello, git windows!" %>
+		<%"Hello, git windows Visual Studio!" %>
 	</body>
 </html>

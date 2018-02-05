@@ -2,7 +2,7 @@
 	<head></head>
 	<body>
 		<?php
-			echo "Hola, git Windows!"
+			echo "Hola, git Windows Visual Studio!"
 		?>
 	</body>
 </html>

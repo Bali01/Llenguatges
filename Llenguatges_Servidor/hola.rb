@@ -1,1 +1,1 @@
-puts "Hello, git Windows!"
+puts "Hello, git Windows visual Studio!"
